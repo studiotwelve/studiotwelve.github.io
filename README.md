@@ -1,2 +1,2 @@
-# studiotwelve.github.io
-primary page for studiotwelve project repositories
+# STUDIOTWELVE github pages
+- Primary site for studiotwelve project repositories.
